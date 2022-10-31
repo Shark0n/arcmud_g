@@ -3,7 +3,10 @@
     "description": "Комната 4",
     "exits": [
         {
-            "south": "0"
+            "south": "9"
+        },
+        {
+            "west": "3"
         }
     ]
 }

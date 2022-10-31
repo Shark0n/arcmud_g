@@ -1,12 +1,9 @@
 {
     "id": "1",
-    "description": "Комната 1",
+    "description": "омната 1",
     "exits": [
         {
             "east": "2"
-        },
-        {
-            "west": "0"
         }
     ]
 }
